@@ -1,6 +1,6 @@
-- 👋 Hi, I’m roop
+- 👋 Hi, I’m Roop
 - 👀 I’m interested in PUBG, processors, ios etc.
-- 🌱 I’m currently learning RUSTTaaaaaaaaa
+- 🌱 I’m currently learning Rust and r3f.
 - 💞️ I’m looking to collaborate on Projects. HMU if you got ideas. 
 
 <!---
